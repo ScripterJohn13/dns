@@ -86,10 +86,8 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>
-- Gemacht von John ✅
-- Blockt Apples Revoke System ✅
-- Der beste DNS ✅</string>
+	<string>Johns DNS Server
+- Blockt Apples Revoke System ✅</string>
 	<key>PayloadDisplayName</key>
 	<string>Johns DNS Server</string>
 	<key>PayloadIdentifier</key>
