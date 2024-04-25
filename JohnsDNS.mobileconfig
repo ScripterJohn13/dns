@@ -86,10 +86,10 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>- Gemacht von John ✅
-    <string>- Sehr gut ✅</string>
-    <string>- Blockt Apples Revoke System ✅</string>
-    <string>- Der beste DNS ✅</string>
+	<string>
+- Gemacht von John ✅
+- Blockt Apples Revoke System ✅
+- Der beste DNS ✅</string>
 	<key>PayloadDisplayName</key>
 	<string>Johns DNS Server</string>
 	<key>PayloadIdentifier</key>
